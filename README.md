@@ -1,4 +1,4 @@
-# CODSOFT_internship
+# CODSOFT
 # CODSOFT Data Science Internship
 
 This repository contains the projects completed during my Data Science Internship at CodSoft.
